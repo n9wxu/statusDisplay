@@ -1,0 +1,3 @@
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/pioasm/CMakeFiles/pioasm.dir
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/pioasm/CMakeFiles/rebuild_cache.dir

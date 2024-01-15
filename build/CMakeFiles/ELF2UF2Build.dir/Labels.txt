@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/CMakeFiles/ELF2UF2Build
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/CMakeFiles/ELF2UF2Build.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/jjulich/Downloads/RP2040-LCD-1.28/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
